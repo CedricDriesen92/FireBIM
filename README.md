@@ -1,3 +1,3 @@
 General FireBIM Repository
 
-If you have a repository to add, send me a message: cedric.driesen@buildwise.be
+If you have a repository to add, send a message to 'insert firebim mail address'
