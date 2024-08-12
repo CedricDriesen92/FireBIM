@@ -1,0 +1,6 @@
+[submodule "RulebookProcessing"]
+	path = RulebookProcessing
+	url = https://github.com/CedricDriesen92/RulebookProcessing.git
+[submodule "IFC-to-Grid-Fire-Escape-Checker"]
+	path = IFC-to-Grid-Fire-Escape-Checker
+	url = https://github.com/CedricDriesen92/IFC-to-Grid-Fire-Escape-Checker.git
