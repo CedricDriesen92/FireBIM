@@ -1,3 +1,3 @@
 General FireBIM Repository
 
-If you have a repository to add, send a message to 'insert firebim mail address'
+If you have a repository to add, send a message to 
